@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talk-writer/static/css/main.48c4549c.css",
+    "main.js": "/talk-writer/static/js/main.bf8b9f21.js",
+    "static/js/787.6622c828.chunk.js": "/talk-writer/static/js/787.6622c828.chunk.js",
+    "index.html": "/talk-writer/index.html",
+    "main.48c4549c.css.map": "/talk-writer/static/css/main.48c4549c.css.map",
+    "main.bf8b9f21.js.map": "/talk-writer/static/js/main.bf8b9f21.js.map",
+    "787.6622c828.chunk.js.map": "/talk-writer/static/js/787.6622c828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c4549c.css",
+    "static/js/main.bf8b9f21.js"
+  ]
+}
